@@ -1,6 +1,5 @@
 {
     "editor.lineHeight": 42,
-	"window.menuBarVisibility": "toggle",
 	"workbench.colorTheme": "One Dark Pro",
 	"workbench.iconTheme": "material-icon-theme",
     "php.suggest.basic": false,
@@ -11,9 +10,9 @@
 		120
 	],
 	"search.useIgnoreFiles": false,
-	"terminal.integrated.lineHeight": 1.2,
-	"terminal.integrated.fontFamily": "Ubuntu Mono",
-	"terminal.integrated.fontSize": 16,
+	"terminal.integrated.lineHeight": 1.5,
+	"terminal.integrated.fontSize": 14,
 	"explorer.autoReveal": false,
-	"window.zoomLevel": 0,
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
 }
