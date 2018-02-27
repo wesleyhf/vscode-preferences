@@ -1,0 +1,19 @@
+{
+    "editor.lineHeight": 42,
+	"window.menuBarVisibility": "toggle",
+	"workbench.colorTheme": "One Dark Pro",
+	"workbench.iconTheme": "material-icon-theme",
+    "php.suggest.basic": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+	"emmet.triggerExpansionOnTab": true,
+	"editor.rulers": [
+		80,
+		120
+	],
+	"search.useIgnoreFiles": false,
+	"terminal.integrated.lineHeight": 1.2,
+	"terminal.integrated.fontFamily": "Ubuntu Mono",
+	"terminal.integrated.fontSize": 16,
+	"explorer.autoReveal": false,
+	"window.zoomLevel": 0,
+}
