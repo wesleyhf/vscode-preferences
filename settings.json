@@ -4,7 +4,6 @@
 	"workbench.iconTheme": "material-icon-theme",
     "php.suggest.basic": false,
     "editor.multiCursorModifier": "ctrlCmd",
-	"emmet.triggerExpansionOnTab": true,
 	"editor.rulers": [
 		80,
 		120
@@ -13,6 +12,6 @@
 	"terminal.integrated.lineHeight": 1.5,
 	"terminal.integrated.fontSize": 14,
 	"explorer.autoReveal": false,
-    "window.zoomLevel": 0,
-    "editor.fontSize": 14,
+	"editor.fontSize": 14,
+	"editor.colorDecorators": false,
 }
