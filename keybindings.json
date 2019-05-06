@@ -127,5 +127,19 @@
         "key": "tab",
         "command": "-editor.emmet.action.expandAbbreviation",
         "when": "config.emmet.triggerExpansionOnTab && editorTextFocus && !editorReadonly && !editorTabMovesFocus"
+    },
+    {
+        "key": "cmd+e",
+        "command": "-actions.findWithSelection"
+    },
+    {
+        "key": "cmd+l",
+        "command": "expandLineSelection",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "cmd+i",
+        "command": "-expandLineSelection",
+        "when": "textInputFocus"
     }
 ]

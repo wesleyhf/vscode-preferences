@@ -1,7 +1,6 @@
 {
     "editor.lineHeight": 42,
 	"workbench.colorTheme": "One Dark Pro",
-	"workbench.iconTheme": "material-icon-theme",
     "php.suggest.basic": false,
     "editor.multiCursorModifier": "ctrlCmd",
 	"editor.rulers": [
@@ -14,4 +13,5 @@
 	"explorer.autoReveal": false,
 	"editor.fontSize": 14,
 	"editor.colorDecorators": false,
+	"window.zoomLevel": 0,
 }

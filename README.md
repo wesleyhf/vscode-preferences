@@ -1,11 +1,17 @@
-# vscode-preferences
+# Visual Studio Code Preferences
 
-### list extensions
+```
+$ code --list-extensions
 
-- EditorConfig.EditorConfig
-- PKief.material-icon-theme
-- PeterJausovec.vscode-docker
-- alefragnani.project-manager
-- bmewburn.vscode-intelephense-client
-- octref.vetur
-- zhuangtongfa.Material-theme
+bmewburn.vscode-intelephense-client
+dbaeumer.vscode-eslint
+EditorConfig.EditorConfig
+mikestead.dotenv
+mrmlnc.vscode-duplicate
+ms-python.python
+octref.vetur
+onecentlin.laravel-blade
+PeterJausovec.vscode-docker
+PKief.material-icon-theme
+zhuangtongfa.Material-theme
+```
