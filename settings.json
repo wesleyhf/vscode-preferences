@@ -1,17 +1,18 @@
 {
+    "editor.colorDecorators": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
     "editor.lineHeight": 42,
-	"workbench.colorTheme": "One Dark Pro",
-    "php.suggest.basic": false,
-    "editor.multiCursorModifier": "ctrlCmd",
-	"editor.rulers": [
-		80,
-		120
-	],
-	"search.useIgnoreFiles": false,
-	"terminal.integrated.lineHeight": 1.5,
-	"terminal.integrated.fontSize": 14,
-	"explorer.autoReveal": false,
-	"editor.fontSize": 14,
-	"editor.colorDecorators": false,
-	"window.zoomLevel": 0,
+    "editor.rulers": [
+        120,
+        80
+    ],
+    "explorer.autoReveal": false,
+    "files.trimTrailingWhitespace": true,
+    "search.useIgnoreFiles": false,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1.5,
+    "workbench.colorTheme": "Dracula",
+    "workbench.tree.renderIndentGuides": "none"
 }
