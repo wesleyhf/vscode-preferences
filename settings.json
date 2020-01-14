@@ -1,8 +1,8 @@
 {
     "editor.colorDecorators": false,
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Fira Mono",
     "editor.fontLigatures": true,
-    "editor.fontSize": 14,
+    "editor.fontSize": 15,
     "editor.lineHeight": 42,
     "editor.rulers": [
         120,
@@ -14,5 +14,5 @@
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.lineHeight": 1.5,
     "workbench.colorTheme": "Dracula",
-    "workbench.tree.renderIndentGuides": "none"
+    "workbench.tree.renderIndentGuides": "none",
 }
